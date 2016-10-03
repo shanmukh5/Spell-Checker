@@ -46,7 +46,7 @@ Sentence Spell Check:
  Input File:
 	    input.txt - contains all sentences with atmost on incorrect word(although code can be easily modified to check for any number of    words), with one sentence per line
  Output File:
-            output_file.txt - Code produces the top 10 suggestions for the identified incorrect(mispelt or word placed in wrong context) word with their scores
+            output_file.txt - Code produces the top 3 suggestions for the identified incorrect(mispelt or word placed in wrong context) word with their scores
 
 
 
