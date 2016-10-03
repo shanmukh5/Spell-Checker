@@ -1,0 +1,11 @@
+on 1
+head 1
+to 1
+up 1
+two 1
+hand 1
+buttons 1
+located 1
+release 1
+the 2
+where 1

@@ -1,0 +1,6 @@
+a 1
+patient 1
+of 1
+absence 1
+the 1
+with 1

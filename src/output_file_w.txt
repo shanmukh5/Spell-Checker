@@ -1,0 +1,5 @@
+naturally 1.16666666667 naturelle 0.166666666711 naturale 0.166666666676 naturel 0.166666666674 natural 0.166666666674 naturals 5.60791255636e-12 naturales 1.95031372166e-13 unnaturally 0.0 naturalist 0.0 naturalism 0.0
+catastrophic 2.0
+beutiful 1.20000016574 beautiful 0.200000991769 beatiful 0.200000167284 beautifull 0.200000165744 bountiful 1.14792383016e-09 dutiful 9.65392098209e-12 youthful 0.0 truthful 0.0 pitiful 0.0 mouthful 0.0
+rollercoaster 2.0
+hospital 1.25000000014 hospitals 0.250000000643 hospitls 0.250000000142 capital 6.73479529316e-11 hopital 1.43200482208e-12 nascita 0.0 marital 0.0 kapitel 0.0 inspiral 0.0 hospitable 0.0

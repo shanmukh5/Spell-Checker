@@ -1,0 +1,17 @@
+* * _ DT N 1 
+* * _ DT shadow 1 
+* * _ the shadow 1 
+* * _ the N 1 
+* DT _ DT * 1 
+* DT _ the * 1 
+* a _ the * 1 
+* a _ DT * 1 
+IN DT _ * * 1 
+IN a _ * * 1 
+with a _ * * 1 
+with DT _ * * 1 
+* * _ DT * 2 
+* * _ a * 1 
+* * _ the * 1 
+* DT _ * * 1 
+* a _ * * 1 
